@@ -1,0 +1,18 @@
+[*]
+[*] GTKWave Analyzer v3.3.77 (w)1999-2016 BSI
+[*] Mon Nov 23 02:50:08 2020
+[*]
+[dumpfile] "E:\Universidad del Valle de Guatemala - Fredy Godoy - 19260\UVG semestre2, año 2020\Digital\uP\uP_tb.vcd"
+[dumpfile_mtime] "Mon Nov 23 02:50:06 2020"
+[dumpfile_size] 40866
+[savefile] "E:\Universidad del Valle de Guatemala - Fredy Godoy - 19260\UVG semestre2, año 2020\Digital\uP\uP_tb.gtkw"
+[timestart] 0
+[size] 1000 600
+[pos] -1 -1
+*0.000000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 197
+[signals_width] 78
+[sst_expanded] 1
+[sst_vpaned_height] 153
+[pattern_trace] 1
+[pattern_trace] 0
